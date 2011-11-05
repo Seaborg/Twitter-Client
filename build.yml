@@ -1,0 +1,28 @@
+#sdk: "/Users/Seaborg/.rvm/gems/ruby-1.8.7-p352/gems/rhodes-3.2.1"
+sdkversion: 3.2.1
+name: twitter_client
+version: 1.0
+vendor: rhomobile
+build: debug
+bbver: 4.6
+wmsdk: Windows Mobile 6 Professional SDK (ARMV4I)
+applog: rholog.txt
+iphone:
+  configuration: Release
+  sdk: iphonesimulator5.0
+  provisionprofile: 
+  codesignidentity: 
+  entitlements: 
+  BundleIdentifier: com.rhomobile.twitterclient
+  BundleURLScheme: twitterclient
+  emulatortarget: iphone
+wp:
+  productid: 1aa007c0-e641-012e-b4a7-58b035fbb0da
+symbian:
+  uid: 4026109400
+android:
+  version: 2.1
+extensions:
+  - json
+  - another-extension
+sdk: /Users/Seaborg/.rvm/gems/ruby-1.8.7-p352/gems/rhodes-3.2.1

@@ -1,0 +1,7 @@
+rhodes_path='/Users/Seaborg/.rvm/gems/ruby-1.8.7-p352/gems/rhodes-3.2.1'
+app_name='twitter_client'
+reload_app_changes=1
+debug_port=
+debug_host='127.0.0.1'
+platform='iphone'
+ext_path=/Users/Seaborg/.rvm/gems/ruby-1.8.7-p352/gems/rhodes-3.2.1/lib/extensions/json;
